@@ -8,7 +8,7 @@ Key features of the project include:
 - Implementation of pathfinding algorithms, such as Dijkstra’s and A* (A-star), to compute the shortest paths.
 - Visualization of map data using a GUI or interactive console interface.
 - Optimized memory and time performance, accommodating large datasets and real-time user interactions.
-- 
+
 This project demonstrates skills in software engineering, algorithm design, data structures, and real-world application of geographic data systems.
 
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/99032bf6-f22e-4bf8-9110-d3a6598f606d">
